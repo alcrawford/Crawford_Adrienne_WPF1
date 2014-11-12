@@ -1,1 +1,4 @@
-alert("This is in the js file");
+/*Adrienne Crawford
+Expressions Wacky
+WPF Week 2 Assignment
+ */
