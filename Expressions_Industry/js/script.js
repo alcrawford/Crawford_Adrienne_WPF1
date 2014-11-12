@@ -1,5 +1,5 @@
 /*Adrienne Crawford
- Expressions Wacky
+ Expressions Industry
  WPF Week 2 Assignment
  */
 
