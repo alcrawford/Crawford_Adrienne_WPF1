@@ -32,13 +32,15 @@ alert("This time you are off by about "+hoursToff+" hours. The real answer is 13
 var workPhone = prompt("Let's end with a work question. We all have to work, right? How many hours does the average person" +
 " spend on the phone, at work, in his or her lifetime?");
 console.log(workPhone);
+//Variable to get users figure.
 
 var wphoneOff = (35063 - workPhone);
 console.log(wphoneOff);
+//Variable to find out difference in user and real numbers. Checks.
 
 alert("Actually, you missed by "+wphoneOff+" hours. Most people spend about 4 years or 35,063 hours on that phone! " +
 " Yuck! Use your time wisely! Thanks for playing.");
-
+//Return result to user. Check and end.
 
 
 
