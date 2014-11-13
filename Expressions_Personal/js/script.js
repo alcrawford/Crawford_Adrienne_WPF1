@@ -34,3 +34,6 @@ alert("Finally, can you guess how many milligrams of tar I inhaled?");
 var tarMg = (11 * numberCigs);
 console.log(tarMg);
 //11mg co 11 mgtar 8mg nicotine
+
+alert("Over the course of fifteen years, I inhaled over "+tarMg+" milligrams of tar. That's equivalent to over 21 ounces " +
+"or 1.2 lbs of tar. Now, I have a really good reminder not to smoke EVER again.");
