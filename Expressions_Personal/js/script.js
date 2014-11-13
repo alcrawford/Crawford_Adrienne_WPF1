@@ -30,4 +30,7 @@ alert("Actually, over the course of fifteen years, PREPARE..., I smoked, "+numbe
 
 alert("Finally, can you guess how many milligrams of tar I inhaled?");
 //Prompt user to interact.
+
+var tarMg = (11 * numberCigs);
+console.log(tarMg);
 //11mg co 11 mgtar 8mg nicotine
