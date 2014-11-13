@@ -29,5 +29,9 @@ console.log(hoursToff);
 alert("This time you are off by about "+hoursToff+" hours. The real answer is 13,149 or about 1 and 1/2 years!");
 //Return to the user. Checks
 
+var workPhone = prompt("Let's end with a work question. We all have to work, right? How many hours does the average person" +
+"spend on the phone, at work, in his or her lifetime?");
+console.log(workPhone);
+
 
 
