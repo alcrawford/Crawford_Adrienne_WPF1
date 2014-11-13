@@ -13,7 +13,7 @@ console.log(prompt);
 var costSmoke = (15 * 958);
 console.log(costSmoke);
 //Variable created to calculate cost to smoke a half pack a day for a year (10 * 365) / 20= 182.5 packs at 5.25 a pack
-// multiplied by number of smoking years. I would have included the whole math problem, but I didnt know enough.
+// multiplied by number of smoking years. I would have included the whole math problem, but I didn't know enough.
 
 alert("Actually, over the course of fifteen years, I spent over $"+costSmoke+" on cigarettes. Wow!");
 //I created an alert to return the real figure to the user. Checks.
@@ -33,7 +33,8 @@ alert("Finally, can you guess how many milligrams of tar I inhaled?");
 
 var tarMg = (11 * numberCigs);
 console.log(tarMg);
-//11mg co 11 mgtar 8mg nicotine
+//Variable to calculate total mg of tar if average cig has 11 mg.
 
 alert("Over the course of fifteen years, I inhaled over "+tarMg+" milligrams of tar. That's equivalent to over 21 ounces " +
 "or 1.2 lbs of tar. Now, I have a really good reminder not to smoke EVER again.");
+//Final return.
