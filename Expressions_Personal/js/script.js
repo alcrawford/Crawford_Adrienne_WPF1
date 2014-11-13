@@ -34,11 +34,12 @@ var cigDiff = (numberCigs - cigGuess);
 console.log(cigDiff);
 //I created a second variable to show the user how close their guess was.
 
-alert("Actually, over the course of fifteen years, PREPARE..., I smoked, "+numberCigs+" cigarettes. Gross.");
+alert("Actually, over the course of fifteen years, PREPARE..., I smoked, "+numberCigs+" cigarettes. You were" +
+" off by "+cigDiff+". Gross, huh?");
 //I created an alert to return the real figure to the user. Checks.
 
-alert("Finally, can you guess how many milligrams of tar I inhaled?");
-//Prompt user to interact.
+var tarGuess = prompt("Finally, can you guess how many milligrams of tar I inhaled?");
+//Created variable to get user input.
 
 var tarMg = (11 * numberCigs);
 console.log(tarMg);
