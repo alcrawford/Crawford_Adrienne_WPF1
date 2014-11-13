@@ -39,12 +39,17 @@ alert("Actually, over the course of fifteen years, PREPARE..., I smoked, "+numbe
 //I created an alert to return the real figure to the user. Checks.
 
 var tarGuess = prompt("Finally, can you guess how many milligrams of tar I inhaled?");
+Console.log(tarGuess);
 //Created variable to get user input.
 
 var tarMg = (11 * numberCigs);
 console.log(tarMg);
 //Variable to calculate total mg of tar if average cig has 11 mg.
 
-alert("Over the course of fifteen years, I inhaled over "+tarMg+" milligrams of tar. That's equivalent to over 21 ounces " +
+var tarDiff = (tarMg - tarGuess);
+console.log(tarDiff);
+//I created a second variable to show the user how close their guess was.
+
+alert("You were off by "+tarDiff+"mg. Over the course of fifteen years, I inhaled over "+tarMg+" milligrams of tar. That's equivalent to over 21 ounces " +
 "or 1.2 lbs of tar. Now, I have a really good reminder not to smoke EVER again.");
 //Final return.
