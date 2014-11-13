@@ -36,5 +36,9 @@ console.log(workPhone);
 var wphoneOff = (35063 - workPhone);
 console.log(wphoneOff);
 
+alert("Actually, you missed by "+wphoneOff+" hours. Most people spend about 4 years or 35,063 hours on that phone! " +
+" Yuck! Use your time wisely! Thanks for playing.");
+
+
 
 
