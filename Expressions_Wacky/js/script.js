@@ -30,8 +30,11 @@ alert("This time you are off by about "+hoursToff+" hours. The real answer is 13
 //Return to the user. Checks
 
 var workPhone = prompt("Let's end with a work question. We all have to work, right? How many hours does the average person" +
-"spend on the phone, at work, in his or her lifetime?");
+" spend on the phone, at work, in his or her lifetime?");
 console.log(workPhone);
+
+var wphoneOff = (35063 - workPhone);
+console.log(wphoneOff);
 
 
 
