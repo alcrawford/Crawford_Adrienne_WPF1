@@ -39,7 +39,7 @@ alert("Actually, over the course of fifteen years, PREPARE..., I smoked, "+numbe
 //I created an alert to return the real figure to the user. Checks.
 
 var tarGuess = prompt("Finally, can you guess how many milligrams of tar I inhaled?");
-Console.log(tarGuess);
+console.log(tarGuess);
 //Created variable to get user input.
 
 var tarMg = (11 * numberCigs);
