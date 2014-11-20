@@ -1,5 +1,5 @@
 /*Adrienne Crawford
-Go To Training Week 3
+Working Go To Training Week 3
  WPF */
 
 // you can do var fruitBowl = newArray or you can simplify it by making the variable equal to the array from the start like above.

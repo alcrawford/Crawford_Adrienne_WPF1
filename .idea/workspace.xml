@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b7293d-8f4b-4fdc-880c-160cd30a775b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Conditionals_Industry/index.html" afterPath="$PROJECT_DIR$/Week 3/Conditionals_Industry/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Conditionals_Personal/index.html" afterPath="$PROJECT_DIR$/Week 3/Conditionals_Personal/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Conditionals_Wacky/index.html" afterPath="$PROJECT_DIR$/Week 3/Conditionals_Wacky/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Go To Training Week 3/index.html" afterPath="$PROJECT_DIR$/Week 3/Go To Training Week 3/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Conditionals_Industry/js/script.js" afterPath="$PROJECT_DIR$/Week 3/Conditionals_Industry/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Conditionals_Personal/js/script.js" afterPath="$PROJECT_DIR$/Week 3/Conditionals_Personal/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Conditionals_Wacky/js/script.js" afterPath="$PROJECT_DIR$/Week 3/Conditionals_Wacky/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Go To Training Week 3/js/week3.js" afterPath="$PROJECT_DIR$/Week 3/Go To Training Week 3/js/week3.js" />
     </list>
     <ignored path="Crawford_Adrienne_WPF1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,36 +33,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="week3.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="week3.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 3/Go To Training Week 3/js/week3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Expressions_Personal/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Expressions_Personal/js/script.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
-              <caret line="36" column="111" selection-start-line="36" selection-start-column="111" selection-end-line="36" selection-end-column="111" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Personal/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Wacky/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 3/Go To Training Week 3/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,12 +103,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
+            <state vertical-scroll-proportion="0.044843048" vertical-offset="0" max-vertical-offset="669">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -106,17 +129,7 @@
         <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Expressions_Wacky/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="240">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -141,17 +154,17 @@
         <option value="$PROJECT_DIR$/Expressions_Industry/js/script.js" />
         <option value="$PROJECT_DIR$/Expressions_Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/Expressions_Personal/js/script.js" />
-        <option value="$PROJECT_DIR$/Week 3/Go To Training Week 3/index.html" />
-        <option value="$PROJECT_DIR$/Week 3/Conditionals_Wacky/index.html" />
-        <option value="$PROJECT_DIR$/Week 3/Conditionals_Personal/index.html" />
-        <option value="$PROJECT_DIR$/Week 3/Conditionals_Industry/index.html" />
-        <option value="$PROJECT_DIR$/Week 3/Go To Training Week 3/js/week3.js" />
         <option value="$PROJECT_DIR$/Week 2/Expressions_Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/Week 2/Expressions_Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Week 2/Expressions_Industry/js/script.js" />
-        <option value="$PROJECT_DIR$/Week 3/Conditionals_Industry/js/script.js" />
-        <option value="$PROJECT_DIR$/Week 3/Conditionals_Personal/js/script.js" />
+        <option value="$PROJECT_DIR$/Week 3/Conditionals_Industry/index.html" />
+        <option value="$PROJECT_DIR$/Week 3/Conditionals_Personal/index.html" />
+        <option value="$PROJECT_DIR$/Week 3/Conditionals_Wacky/index.html" />
+        <option value="$PROJECT_DIR$/Week 3/Go To Training Week 3/index.html" />
+        <option value="$PROJECT_DIR$/Week 3/Go To Training Week 3/js/week3.js" />
         <option value="$PROJECT_DIR$/Week 3/Conditionals_Wacky/js/script.js" />
+        <option value="$PROJECT_DIR$/Week 3/Conditionals_Personal/js/script.js" />
+        <option value="$PROJECT_DIR$/Week 3/Conditionals_Industry/js/script.js" />
       </list>
     </option>
   </component>
@@ -672,7 +685,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -682,36 +695,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Go To Training Week 3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23255815" vertical-offset="0" max-vertical-offset="645">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Wacky/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11627907" vertical-offset="0" max-vertical-offset="645">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11627907" vertical-offset="0" max-vertical-offset="645">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Industry/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18604651" vertical-offset="0" max-vertical-offset="645">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -767,18 +752,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Industry/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Personal/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Wacky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Go To Training Week 3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Go To Training Week 3/js/week3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -786,15 +795,23 @@
     <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 3/Go To Training Week 3/js/week3.js">
+    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="669">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Conditionals_Industry/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.044843048" vertical-offset="0" max-vertical-offset="669">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

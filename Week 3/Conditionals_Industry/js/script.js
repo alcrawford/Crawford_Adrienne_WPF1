@@ -1,3 +1,3 @@
 /*Adrienne Crawford
- Conditionals Wacky
+ Working Conditionals Wacky
  WPF Week 3 Assignment*/
