@@ -1,7 +1,6 @@
 /*Adrienne Crawford
  Expressions Industry
- WPF Week 2 Assignment
- */
+ WPF Week 2 Assignment*/
 
 alert("I want to know how much you made last year as a Web Developer?");
 //First I alert the reader to my purpose. Check in browser window. Checks.
@@ -22,7 +21,7 @@ console. log(incomeTax);
 //console log returns
 
 var yearSum = Number(freeLance) + Number(jobSalary);
-//I created a variable to add the figures with concantonation
+//I created a variable to add the figures with concatenation
 console. log(yearSum);
 //console log returns
 
