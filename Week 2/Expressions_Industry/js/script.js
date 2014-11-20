@@ -1,6 +1,6 @@
 /*Adrienne Crawford
  Expressions Industry
- WPF Week 2 Assignment*/
+ WPF Week 2 Assignment */
 
 alert("I want to know how much you made last year as a Web Developer?");
 //First I alert the reader to my purpose. Check in browser window. Checks.

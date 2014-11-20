@@ -1,7 +1,6 @@
 /*Adrienne Crawford
 Expressions Wacky
-WPF Week 2 Assignment
- */
+WPF Week 2 Assignment*/
 
 
 alert("Welcome to silly trivia quiz! I am going to ask you some odd questions and you can take a good guess!");
@@ -18,11 +17,11 @@ console.log(hoursLoff);
 alert("Well, you are off by about "+hoursLoff+" hours. The answer is 336 hours, or approximately 2 weeks.");
 //Return the result to user.checks
 
-var hoursTvad = prompt("How many hours do you think the average person spends, in their lifetime, watching commercials?");
-console.log(hoursTvad);
+var hoursTvAd = prompt("How many hours do you think the average person spends, in their lifetime, watching commercials?");
+console.log(hoursTvAd);
 //Variable to find out users guess.
 
-var hoursToff = (13149 - hoursTvad);
+var hoursToff = (13149 - hoursTvAd);
 console.log(hoursToff);
 //Variable to find out how far off the user is so it can be returned.
 
@@ -34,11 +33,11 @@ var workPhone = prompt("Let's end with a work question. We all have to work, rig
 console.log(workPhone);
 //Variable to get users figure.
 
-var wphoneOff = (35063 - workPhone);
-console.log(wphoneOff);
+var wPhoneOff = (35063 - workPhone);
+console.log(wPhoneOff);
 //Variable to find out difference in user and real numbers. Checks.
 
-alert("Actually, you missed by "+wphoneOff+" hours. Most people spend about 4 years or 35,063 hours on that phone! " +
+alert("Actually, you missed by "+wPhoneOff+" hours. Most people spend about 4 years or 35,063 hours on that phone! " +
 " Yuck! Use your time wisely! Thanks for playing.");
 //Return result to user. Check and end.
 

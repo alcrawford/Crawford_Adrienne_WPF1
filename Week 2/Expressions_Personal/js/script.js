@@ -1,7 +1,6 @@
 /*Adrienne Crawford
  Expressions Personal
- WPF Week 2 Assignment
- */
+ WPF Week 2 Assignment*/
 
 alert("I quit smoking. Sometimes I think about all the damage it caused, and the money it cost me.");
 //First I prepare reader for purpose. Then check in console. Checks.
@@ -13,7 +12,8 @@ console.log(costGuess);
 var costSmoke = (15 * 958);
 console.log(costSmoke);
 //Variable created to calculate cost to smoke a half pack a day for a year (10 * 365) / 20= 182.5 packs at 5.25 a pack
-// multiplied by number of smoking years. I would have included the whole math problem, but I didn't know enough.
+// multiplied by number of smoking years. I would have included the whole math problem, but I wanted to stay simple for initial
+// calculations, without too many added variables
 
 var costDiff = (costSmoke - costGuess);
 console.log(costDiff);
