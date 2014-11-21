@@ -26,5 +26,15 @@ if (codeLang[2] === "HTML"){
 }else{
  console.log("this code is not HTML.");
 }
+if (codeLang[3] === "HTML"){
+ numHtml ++;
+}else{
+ console.log("this code is not HTML.");
+}
+if (codeLang[4] === "HTML"){
+ numHtml ++;
+}else{
+ console.log("this code is not HTML.");
+}
 
 
