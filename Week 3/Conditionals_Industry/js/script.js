@@ -47,6 +47,7 @@ console.log(workersHtml);
 //returns
 //Next I prompt for the time required to complete the job.
 
-var hoursHtml = prompt("With a full team, how many hours will the project require for completion");
+var hoursHtml = prompt("With a full team, how many hours will the project require for completion?");
 
 var budgetHtml = (4800 - (workersHtml*hoursHtml));
+prompt("You are approved for" +budgetHtml+ "to divide equally amongst employees.");
