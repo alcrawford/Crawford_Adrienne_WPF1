@@ -50,7 +50,7 @@ console.log(workersHtml);
 var hoursHtml = prompt("With a full team, how many hours will the project require for completion?");
 
 var totalOne = workersHtml * hoursHtml;
-var totalHours = 4800 - totalOne;
+var totalHours = 4800 / totalOne;
 //I made two variables to calculate the amount for payroll using a 4800 budget.
-alert("You are approved for " +totalOne+ " to divide equally amongst employees.");
+alert("You are budgeted for an hourly wage of " +totalHours+ " dollars per employee.");
 //I returned the payroll amount
