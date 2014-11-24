@@ -27,7 +27,9 @@ if(freeLanceOffer >= 50000 && nannyCost <= 7600){                      //logical
 }else if(freeLanceOffer >= 46000 || nannyCost >= 5600){                //logical or operator
    console.log("You can work home part-time");
 }else{
-   console.log("You are working at home with kids.");
+   console.log("You are working at home with kids.");                  //no condition on else statement
 }
 
-
+var totalIncome = (freeLanceOffer - nannyCost + 70000);
+    console.log(totalIncome);
+//created a final variable to determine total income. checks.
