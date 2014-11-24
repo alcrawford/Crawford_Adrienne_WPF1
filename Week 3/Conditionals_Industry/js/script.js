@@ -1,5 +1,5 @@
 /*Adrienne Crawford
- Working Conditionals Industry
+ Final Working Conditionals Industry
  WPF Week 3 Assignment*/
 
 var codeLang = ["JS","HTML","RUBY","PHP","HTML"]

@@ -1,5 +1,5 @@
 /*Adrienne Crawford
- Working Conditionals Wacky
+ Final Working Conditionals Wacky
  WPF Week 3 Assignment*/
 
 //setting up variable and prompt to get user input. checks.
@@ -25,6 +25,6 @@ if(temp <= 30){
 var actualTemp = prompt("What was the actual temperature today?");
 console.log(actualTemp);
 
-var goodGuess = (temp - actualTemp);               //isnt there a difference operator? so I don't get a negative sign?
+var goodGuess = (temp - actualTemp);               //isn't there a difference operator? so I don't get a negative sign?
 
 prompt("You may be better than those guys on TV. You were off by about "+goodGuess+" degrees.");
