@@ -1,3 +1,4 @@
-/**
- * Created by Adrienne on 11/24/14.
+/*Adrienne Crawford
+ Functions Wacky
+ WPF Week 4 Assignment
  */
