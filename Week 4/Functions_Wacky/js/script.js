@@ -3,13 +3,19 @@
  WPF Week 4 Assignment
  */
 
-//thanksgiving food amount per person like 8 lbs potatoes /12 people
+var mshedTater = prompt("Have you ever noticed how people always seems to make an overload of mashed potatoes on Thanksgiving?" +
+"How many pounds of potatoes did you buy this year?");
+console.log(mshedTater);
+//prompted user for variable
 
+var guests = prompt("How many guests will celebrate Thanksgiving with you?");
+console.log(guests);
+//prompted user for variable
 
-var calcAmount = function(weight, population){
-    var lbs = population / weight;
-    return lbs;
+var foodAmount = function (mshedTater, guests){                 //anon funct, defined before invoked.
+    var pounds = parseInt(mshedTater) / parseInt(guests);
+    return pounds;                                              //returns .34lbs per person with 8lbs and 23 people
 }
 
-var a = calcAmount(8, 10);
-console.log(calcAmount);
+var a = foodAmount (mshedTater, guests);                       //function invoked at end
+    console.log(a);
