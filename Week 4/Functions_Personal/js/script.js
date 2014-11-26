@@ -15,11 +15,16 @@ var pageWrite = prompt("In numbers, tell me how many pages you think a novel wri
 
 oneYear(bookLength, pageWrite);
 
-function oneYear(pageWrite, bookLength)
+function oneYear(pageWrite, bookLength){
+ var oneYear = parseInt(pageWrite) * 365;
+ var howClose = parseInt(oneYear) - parseInt(bookLength);
+ console.log(oneYear);
+ console.log(howClose);
+}
 
 
 
 
-if (pageWrite => 5){
+//if (pageWrite => 5){
 
 }
