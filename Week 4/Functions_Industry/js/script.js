@@ -15,11 +15,12 @@ console.log(addOns);
 
 siteCost(reg,host,addOns);                    //set up argument for cost of yearly website maintenance
 
-
 function siteCost(reg, host, addOns){                                //parameters for yearly website registration and yearly hosting
   var siteCost = parseInt(reg) + parseInt(host) + parseInt(addOns);  //function definition added together using parsing
   console.log(siteCost);                                             //result check
 }
+
+
 
 
 
