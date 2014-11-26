@@ -7,7 +7,7 @@
 
 var bookLength = prompt(" In numbers, tell me if you would prefer to read a 300 or 400 page book.");
  console.log(bookLength);
-//prompt to get variable
+//prompt to get variable.
 
 var pageWrite = prompt("In numbers, tell me how many pages you think a novel writer should complete daily? " +
 "Keep in mind that most writers will go through at least one draft, doubling the page size in writing.");
